@@ -1,3 +1,3 @@
 # Extending and Support
 
-If oyu need commerical support or help extending the crm.  Send us an email support@iceburg.ca
+If you need commerical support or help extending Iceburg CRM. Send us an email at [support@iceburg.ca](mailto:support@iceburg.ca).
